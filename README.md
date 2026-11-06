@@ -61,9 +61,9 @@
 | --- | --- |
 | ![药品库存](img/inventory-goods.png) | ![药品资料](img/inventory-goods-form.png) |
 
-| 采购入库 | 系统菜单 |
+| 采购入库 | 打印预览 |
 | --- | --- |
-| ![采购入库](img/inventory-purchase-receive.png) | |
+| ![采购入库](img/inventory-purchase-receive.png) |  ![打印预览](img/print-preview.png) |
 
 ### 打印中心
 
@@ -75,9 +75,6 @@
 | --- | --- |
 | ![打印模板编辑](img/print-template-editor.png) | ![打印模板编辑详情](img/print-template-editor-1.png) |
 
-| 打印预览 | |
-| --- | --- |
-| ![打印预览](img/print-preview.png) | |
 
 ### 设置与数据维护
 
