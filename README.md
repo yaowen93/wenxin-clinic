@@ -21,9 +21,9 @@
 
 ### 首页与诊疗
 
-| 登录与首页 | 首页统计 |
-| --- | --- |
-| ![登录与首页](img/login-and-dashboard.png) | ![首页统计](img/dashboard-statistics.png) |
+| 首页统计 |
+| --- |
+| ![首页统计](img/dashboard-statistics.png) |
 
 | 门诊工作台 | 门诊工作台（处方） |
 | --- | --- |
