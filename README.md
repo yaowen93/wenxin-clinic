@@ -17,6 +17,78 @@
 - **打印中心**：处方、医嘱、收费票据、零售单据和发药单据等模板化打印。
 - **数据维护**：本地数据存储、附件管理、手动备份与备份恢复。
 
+## 系统界面
+
+### 首页与诊疗
+
+| 登录与首页 | 首页统计 |
+| --- | --- |
+| ![登录与首页](img/login-and-dashboard.png) | ![首页统计](img/dashboard-statistics.png) |
+
+| 门诊工作台 | 门诊工作台（处方） |
+| --- | --- |
+| ![门诊工作台](img/outpatient-workbench.png) | ![门诊工作台处方](img/outpatient-workbench-1.png) |
+
+| 患者建档 | 医嘱执行列表 |
+| --- | --- |
+| ![患者建档](img/patient-create-form.png) | ![医嘱执行列表](img/medical-execution-list.png) |
+
+| 医嘱执行列表（详情） | AI 知识库 |
+| --- | --- |
+| ![医嘱执行列表详情](img/medical-execution-list-1.png) | ![AI 知识库](img/ai-knowledge-base.png) |
+
+### 收费与药房
+
+| 收费支付 | 收费支付（方式） |
+| --- | --- |
+| ![收费支付](img/billing-pay-dialog.png) | ![收费支付方式](img/billing-pay-dialog-1.png) |
+
+| 收费支付（确认） | 收费退款 |
+| --- | --- |
+| ![收费支付确认](img/billing-pay-dialog-2.png) | ![收费退款](img/billing-refund-dialog.png) |
+
+| 零售开单 | 待发药列表 |
+| --- | --- |
+| ![零售开单](img/retail-order.png) | ![待发药列表](img/pharmacy-pending-list.png) |
+
+| 发药核对 | 成员和角色权限 |
+| --- | --- |
+| ![发药核对](img/pharmacy-dispense-dialog.png) | ![成员和角色权限](img/member-role-permission.png) |
+
+### 库存管理
+
+| 药品库存 | 药品资料 |
+| --- | --- |
+| ![药品库存](img/inventory-goods.png) | ![药品资料](img/inventory-goods-form.png) |
+
+| 采购入库 | 系统菜单 |
+| --- | --- |
+| ![采购入库](img/inventory-purchase-receive.png) | |
+
+### 打印中心
+
+| 打印设置 | 打印客户端连接 |
+| --- | --- |
+| ![打印设置](img/print-settings.png) | ![打印客户端连接](img/print-client-connection.png) |
+
+| 打印模板编辑 | 打印模板编辑（详情） |
+| --- | --- |
+| ![打印模板编辑](img/print-template-editor.png) | ![打印模板编辑详情](img/print-template-editor-1.png) |
+
+| 打印预览 | |
+| --- | --- |
+| ![打印预览](img/print-preview.png) | |
+
+### 设置与数据维护
+
+| 系统菜单总览 | 系统设置菜单 |
+| --- | --- |
+| ![系统菜单总览](img/system-menu-overview.png) | ![系统设置菜单](img/system-settings-menu.png) |
+
+| 数据管理和日志 |
+| --- |
+| ![数据管理和日志](img/data-management-log.png) |
+
 ## 下载与安装
 
 安装包仅通过本仓库的 **Releases** 页面发布：
